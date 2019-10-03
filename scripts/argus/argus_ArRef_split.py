@@ -37,6 +37,7 @@ def main():
    
     #load pipette into V1
     open('2')
+    open('3')
     open('4')
     sleep(30)
     close('4')
@@ -45,6 +46,7 @@ def main():
     sleep(1)
     open('1')
     sleep(30)
+    close('3')
     close('1')
     sleep(1)
     open('2')
