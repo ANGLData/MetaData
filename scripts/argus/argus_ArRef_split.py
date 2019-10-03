@@ -31,7 +31,7 @@ def main():
         sleep(pipette_fill_duration)
         close('5')
         
-    # isolate V1
+    #isolate V1
     close('1')
     sleep(1)
    
@@ -42,6 +42,19 @@ def main():
     sleep(30)
     close('4')
     
+    #first split into Aux 2 stage
+    close('2')
+    sleep(1)
+    open('1')
+    sleep(30)
+    close('1')
+    sleep(1)
+    
+    #expand Aux 2 into V1
+    open('2')
+    sleep(30)
+    
+    #second split into Aux 2 stage
     close('2')
     sleep(1)
     open('1')
@@ -49,6 +62,8 @@ def main():
     close('3')
     close('1')
     sleep(1)
+    
+    #expand split into V1
     open('2')
     sleep(30)
 
