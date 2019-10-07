@@ -3,7 +3,7 @@
 #===============================================================================
 '''
 modifier: 01
-eqtime: 20
+eqtime: 15
 '''
 def main():
         
@@ -16,8 +16,8 @@ def main():
     close('8') # MS inlet
     open('1')  # Prep ion
     open('9')  # MS ion
-    close('2') # Aux 1
-    close('3') # Aux 2
+    open('2') # Aux 1
+    open('3') # Aux 2
     close('4') # Pipette Ref Out
     close('5') # Pipette Ref In
     
