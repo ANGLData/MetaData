@@ -14,6 +14,7 @@ def main():
     
     #reset valving, pump prep/MS
     close('8') # MS inlet
+    close('X') #Prepturbo
     open('1')  # Prep ion
     open('9')  # MS ion
     open('2') # Aux 1
