@@ -2,47 +2,7 @@
     {
         "analyses": [], 
         "decay_constants": {}, 
-        "identifier": "a-01-J", 
-        "j": 0, 
-        "j_err": 0, 
-        "position": 1
-    }, 
-    {
-        "analyses": [], 
-        "decay_constants": {}, 
-        "identifier": "bc-01-J", 
-        "j": 0, 
-        "j_err": 0, 
-        "position": 2
-    }, 
-    {
-        "analyses": [], 
-        "decay_constants": {}, 
-        "identifier": "bu-FC-J", 
-        "j": 0, 
-        "j_err": 0, 
-        "position": 3
-    }, 
-    {
-        "analyses": [], 
-        "decay_constants": {}, 
-        "identifier": "c-01-J", 
-        "j": 0, 
-        "j_err": 0, 
-        "position": 4
-    }, 
-    {
-        "analyses": [], 
-        "decay_constants": {}, 
-        "identifier": "ba-01-J", 
-        "j": 0, 
-        "j_err": 0, 
-        "position": 5
-    }, 
-    {
-        "analyses": [], 
-        "decay_constants": {}, 
-        "identifier": "a-01-O", 
+        "identifier": "a-01-A", 
         "j": 0, 
         "j_err": 0, 
         "position": 6
@@ -50,7 +10,7 @@
     {
         "analyses": [], 
         "decay_constants": {}, 
-        "identifier": "ba-01-O", 
+        "identifier": "ba-01-A", 
         "j": 0, 
         "j_err": 0, 
         "position": 7
@@ -58,7 +18,7 @@
     {
         "analyses": [], 
         "decay_constants": {}, 
-        "identifier": "bc-01-O", 
+        "identifier": "bc-01-A", 
         "j": 0, 
         "j_err": 0, 
         "position": 8
@@ -66,7 +26,7 @@
     {
         "analyses": [], 
         "decay_constants": {}, 
-        "identifier": "c-01-O", 
+        "identifier": "c-01-A", 
         "j": 0, 
         "j_err": 0, 
         "position": 9
@@ -74,7 +34,7 @@
     {
         "analyses": [], 
         "decay_constants": {}, 
-        "identifier": "ic-01-J", 
+        "identifier": "ic-01-A", 
         "j": 0, 
         "j_err": 0, 
         "position": 10
@@ -82,169 +42,9 @@
     {
         "analyses": [], 
         "decay_constants": {}, 
-        "identifier": "ic-01-J", 
-        "j": 0, 
-        "j_err": 0, 
-        "position": 10
-    }, 
-    {
-        "analyses": [], 
-        "decay_constants": {}, 
-        "identifier": "bu-FD-O", 
+        "identifier": "bu-FC-A", 
         "j": 0, 
         "j_err": 0, 
         "position": 11
-    }, 
-    {
-        "analyses": [], 
-        "decay_constants": {}, 
-        "identifier": "bu-FD-J", 
-        "j": 0, 
-        "j_err": 0, 
-        "position": 12
-    }, 
-    {
-        "analyses": [], 
-        "decay_constants": {}, 
-        "identifier": "be-01-J", 
-        "j": 0, 
-        "j_err": 0, 
-        "position": 13
-    }, 
-    {
-        "analyses": [], 
-        "decay_constants": {}, 
-        "identifier": "bg-01-J", 
-        "j": 0, 
-        "j_err": 0, 
-        "position": 14
-    }, 
-    {
-        "analyses": [], 
-        "decay_constants": {}, 
-        "identifier": "a-01-F", 
-        "j": 0, 
-        "j_err": 0, 
-        "position": 15
-    }, 
-    {
-        "analyses": [], 
-        "decay_constants": {}, 
-        "identifier": "ba-01-F", 
-        "j": 0, 
-        "j_err": 0, 
-        "position": 16
-    }, 
-    {
-        "analyses": [], 
-        "decay_constants": {}, 
-        "identifier": "bc-01-F", 
-        "j": 0, 
-        "j_err": 0, 
-        "position": 17
-    }, 
-    {
-        "analyses": [], 
-        "decay_constants": {}, 
-        "identifier": "c-01-F", 
-        "j": 0, 
-        "j_err": 0, 
-        "position": 18
-    }, 
-    {
-        "analyses": [], 
-        "decay_constants": {}, 
-        "identifier": "ic-01-F", 
-        "j": 0, 
-        "j_err": 0, 
-        "position": 19
-    }, 
-    {
-        "analyses": [], 
-        "decay_constants": {}, 
-        "identifier": "bu-NF-F", 
-        "j": 0, 
-        "j_err": 0, 
-        "position": 20
-    }, 
-    {
-        "analyses": [], 
-        "decay_constants": {}, 
-        "identifier": "be-01-F", 
-        "j": 0, 
-        "j_err": 0, 
-        "position": 21
-    }, 
-    {
-        "analyses": [], 
-        "decay_constants": {}, 
-        "identifier": "bu-FD-F", 
-        "j": 0, 
-        "j_err": 0, 
-        "position": 22
-    }, 
-    {
-        "analyses": [], 
-        "decay_constants": {}, 
-        "identifier": "bu-FC-F", 
-        "j": 0, 
-        "j_err": 0, 
-        "position": 23
-    }, 
-    {
-        "analyses": [], 
-        "decay_constants": {}, 
-        "identifier": "bc-02-J", 
-        "j": 0, 
-        "j_err": 0, 
-        "position": 24
-    }, 
-    {
-        "analyses": [], 
-        "decay_constants": {}, 
-        "identifier": "bc-02-F", 
-        "j": 0, 
-        "j_err": 0, 
-        "position": 25
-    },
-	{
-        "analyses": [], 
-        "decay_constants": {}, 
-        "identifier": "4313", 
-        "j": 0, 
-        "j_err": 0, 
-        "position": 26
-    },
-    {
-        "analyses": [], 
-        "decay_constants": {}, 
-        "identifier": "ic-02-J", 
-        "j": 0, 
-        "j_err": 0, 
-        "position": 27
-    },
-   {
-        "analyses": [], 
-        "decay_constants": {}, 
-        "identifier": "ic-02-F", 
-        "j": 0, 
-        "j_err": 0, 
-        "position": 28
-    },
-    {
-        "analyses": [], 
-        "decay_constants": {}, 
-        "identifier": "c-03-F", 
-        "j": 0, 
-        "j_err": 0, 
-        "position": 29
-    },
-    {
-        "analyses": [], 
-        "decay_constants": {}, 
-        "identifier": "c-03-J", 
-        "j": 0, 
-        "j_err": 0, 
-        "position": 30
     }
 ]
