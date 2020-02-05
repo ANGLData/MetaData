@@ -12,15 +12,17 @@ def main():
     
     info('Argus VI Ar Extraction Script')
     
-    #reset valving, pump prep/MS
+    #reset valving, pump prep/MS/pippette
     close('8') # MS inlet
     open('X') #Prepturbo
     open('1')  # Prep ion
     open('9')  # MS ion
     open('2') # Aux 1
-    open('3') # Aux 2
+    open('4')  # Pipette Ref Out
+    sleep(30)
     close('4') # Pipette Ref Out
     close('5') # Pipette Ref In
+    
     
     pipette_fill_duration = 15
     if analysis_type=='blank': #only relavent to extraction scripts
