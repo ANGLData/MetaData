@@ -17,9 +17,21 @@ INLET= '8'
 OUTLET= '9'
 EQ_DELAY= 3.0
 
-ACTIVE_DETECTORS = ('H2','H1')
-FITS = ('Ar40H2:parabolic','Ar40H1:parabolic')
-BASELINE_FITS=('average_SEM',)
+ACTIVE_DETECTORS = ('H2','H1', 'AX', 'L1', 'L2', 'CDD')
+
+FITS =('Ar40:parabolic',
+       'Ar39:parabolic',
+       'Ar38:parabolic',
+       'Ar37:parabolic',
+       'Ar36:parabolic',
+       'Ar40H1:parabolic',
+       'Ar39AX:parabolic',
+       'Ar38L1:parabolic',
+       'Ar37L2:parabolic',
+       'Ar36L2:parabolic')
+
+
+BASELINE_FITS=(('average', 'SEM'),)
 
 NCYCLES=6
 GENERATE_ICMFTABLE=False
@@ -28,9 +40,11 @@ def main():
     info('unknown measurement script')
 
     # protect the CDD
-    set_deflection('CDD', 2000)
+    
     activate_detectors(*ACTIVE_DETECTORS)
-
+    
+    #position_magnet('Ar40', 'H2')
+    
     hops=load_hops('hops/ic_2hops.yaml')
     info(hops)
     define_hops(hops)
@@ -42,31 +56,25 @@ def main():
     set_time_zero()
 
     #sniff the gas during equilibration
-    #sniff(EQ_TIME-1)
-    sleep(EQ_TIME-1)
+    #sniff(EQ_TIME)
+    sleep(EQ_TIME)
     set_fits(*FITS)
     set_baseline_fits(*BASELINE_FITS)
 
     sleep(0.5)
     
-    mftable_name = 'mftable'
-    #if GENERATE_ICMFTABLE:
-    #    mftable_name = 'ic_mftable'
-    #    generate_ic_mftable(('H1','H2'), peak_center_config='ic_2hops')
-    #    set_time_zero()
-
-    peak_hop(ncycles=NCYCLES, hops=hops, mftable=mftable_name)
-
+    peak_hop(ncycles=NCYCLES, hops=hops, mftable='mftable')
+    
 
     if BASELINE_AFTER:
         #necessary if peak hopping
-        define_detectors('Ar40','H2')
         define_detectors('Ar40','H1')
+        define_detectors('Ar39','AX')
+        define_detectors('Ar38','L1')
+        define_detectors('Ar37','L2')
+        define_detectors('Ar36','CDD')
       
         baselines(ncounts=BASELINE_COUNTS,mass=BASELINE_MASS, detector=BASELINE_DETECTOR,
                   settling_time=BASELINE_SETTLING_TIME)
-
-    # unprotect CDD
-    set_deflection('CDD', 50)
 
     info('finished measure script')
