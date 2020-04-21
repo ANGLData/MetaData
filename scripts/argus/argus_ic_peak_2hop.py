@@ -33,7 +33,7 @@ FITS =('Ar40:parabolic',
 
 BASELINE_FITS=(('average', 'SEM'),)
 
-NCYCLES=15
+NCYCLES=20
 GENERATE_ICMFTABLE=False
 
 def main():
