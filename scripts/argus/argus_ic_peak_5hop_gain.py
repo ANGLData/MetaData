@@ -28,7 +28,7 @@ FITS =('Ar40H2:linear',
 
 BASELINE_FITS=(('average', 'SEM'),)
 
-NCYCLES=10
+NCYCLES=20
 GENERATE_ICMFTABLE=False
 
 def main():
