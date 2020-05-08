@@ -2,123 +2,253 @@
     "positions": [
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1005",
-            "j": 0.002770371684970298,
-            "j_err": 9.250992324908587e-07,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.0027656917850130474,
+            "j_err": 3.8083554009965027e-06,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Bracketing",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
+            },
             "position": 1,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1006",
-            "j": 0.002770371684970298,
-            "j_err": 9.250992324908587e-07,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.0027656917850130474,
+            "j_err": 3.8083554009965027e-06,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Bracketing",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
+            },
             "position": 2,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1007",
-            "j": 0.002770371684970298,
-            "j_err": 9.250992324908587e-07,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.0027665159878964337,
+            "j_err": 4.632558284382556e-06,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Bracketing",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
+            },
             "position": 3,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1008",
-            "j": 0.002770371684970298,
-            "j_err": 9.250992324908587e-07,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.0027656917850130474,
+            "j_err": 3.8083554009965027e-06,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Bracketing",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
+            },
             "position": 4,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1009",
-            "j": 0.002770371684970298,
-            "j_err": 9.250992324908587e-07,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.0027656917850130474,
+            "j_err": 3.8083554009965027e-06,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Bracketing",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
+            },
             "position": 5,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1010",
-            "j": 0.002770371684970298,
-            "j_err": 9.250992324908587e-07,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.0027665159878964337,
+            "j_err": 4.632558284382556e-06,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Bracketing",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
+            },
             "position": 6,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1011",
-            "j": 0.002770371684970298,
-            "j_err": 9.250992324908587e-07,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.0027703243432974298,
+            "j_err": 8.242028833860531e-07,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Bracketing",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
+            },
             "position": 8,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1012",
-            "j": 0.002770371684970298,
-            "j_err": 9.250992324908587e-07,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.0027656917850130474,
+            "j_err": 3.8083554009965027e-06,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Bracketing",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
+            },
             "position": 9,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1013",
-            "j": 0.002770371684970298,
-            "j_err": 9.250992324908587e-07,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.0027665159878964337,
+            "j_err": 4.632558284382556e-06,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Bracketing",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
+            },
             "position": 10,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1014",
-            "j": 0.002770371684970298,
-            "j_err": 9.250992324908587e-07,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.0027703243432974298,
+            "j_err": 8.242028833860531e-07,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Bracketing",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
+            },
             "position": 11,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
@@ -134,255 +264,528 @@
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1016",
-            "j": 0.002770371684970298,
-            "j_err": 9.250992324908587e-07,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.0027665159878964337,
+            "j_err": 4.632558284382556e-06,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Bracketing",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
+            },
             "position": 13,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1017",
-            "j": 0.002770371684970298,
-            "j_err": 9.250992324908587e-07,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.0027703243432974298,
+            "j_err": 8.242028833860531e-07,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Bracketing",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
+            },
             "position": 15,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1018",
-            "j": 0.002770371684970298,
-            "j_err": 9.250992324908587e-07,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.002759572805524074,
+            "j_err": 9.927334889969774e-06,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Bracketing",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
+            },
             "position": 16,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1019",
-            "j": 0.002770371684970298,
-            "j_err": 9.250992324908587e-07,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.00276039700840746,
+            "j_err": 1.0751537773355828e-05,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Bracketing",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
+            },
             "position": 17,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1020",
-            "j": 0.0026,
-            "j_err": 0.0,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.0027656917850130474,
+            "j_err": 3.8083554009965027e-06,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Bracketing",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
+            },
             "position": 35,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1021",
-            "j": 0.0026,
-            "j_err": 0.0,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.0027656917850130474,
+            "j_err": 3.8083554009965027e-06,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Bracketing",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
+            },
             "position": 36,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1022",
-            "j": 0.0026,
-            "j_err": 0.0,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.0027665159878964337,
+            "j_err": 4.632558284382556e-06,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Bracketing",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
+            },
             "position": 37,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1023",
-            "j": 0.0026,
-            "j_err": 0.0,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.0027656917850130474,
+            "j_err": 3.8083554009965027e-06,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Bracketing",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
+            },
             "position": 38,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1024",
-            "j": 0.0026,
-            "j_err": 0.0,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.0027656917850130474,
+            "j_err": 3.8083554009965027e-06,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Bracketing",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
+            },
             "position": 39,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1025",
-            "j": 0.0026,
-            "j_err": 0.0,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.0027665159878964337,
+            "j_err": 4.632558284382556e-06,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Bracketing",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
+            },
             "position": 40,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1026",
-            "j": 0.0026,
-            "j_err": 0.0,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.0027665159878964337,
+            "j_err": 4.632558284382556e-06,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Bracketing",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
+            },
             "position": 41,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1027",
-            "j": 0.0026,
-            "j_err": 0.0,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.0027703243432974298,
+            "j_err": 8.242028833860531e-07,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Bracketing",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
+            },
             "position": 42,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1028",
-            "j": 0.0026,
-            "j_err": 0.0,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.0027656917850130474,
+            "j_err": 3.8083554009965027e-06,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Bracketing",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
+            },
             "position": 43,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1029",
-            "j": 0.0026,
-            "j_err": 0.0,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.0027665159878964337,
+            "j_err": 4.632558284382556e-06,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Bracketing",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
+            },
             "position": 44,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1030",
-            "j": 0.0026,
-            "j_err": 0.0,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.0027703243432974298,
+            "j_err": 8.242028833860531e-07,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Bracketing",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
+            },
             "position": 45,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1031",
-            "j": 0.002770371684970298,
-            "j_err": 9.250992324908587e-07,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.0027703243432974298,
+            "j_err": 8.242028833860531e-07,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Bracketing",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
+            },
             "position": 46,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1032",
-            "j": 0.002770371684970298,
-            "j_err": 9.250992324908587e-07,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.0027665159878964337,
+            "j_err": 4.632558284382556e-06,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Bracketing",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
+            },
             "position": 47,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1033",
-            "j": 0.0026,
-            "j_err": 0.0,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.0027665159878964337,
+            "j_err": 4.632558284382556e-06,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Bracketing",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
+            },
             "position": 48,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1034",
-            "j": 0.0026,
-            "j_err": 0.0,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.0027703243432974298,
+            "j_err": 8.242028833860531e-07,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Bracketing",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
+            },
             "position": 49,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1035",
-            "j": 0.0026,
-            "j_err": 0.0,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.002759572805524074,
+            "j_err": 9.927334889969774e-06,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Bracketing",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
+            },
             "position": 50,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1036",
-            "j": 0.002770372,
-            "j_err": 0.009250992,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.00276039700840746,
+            "j_err": 1.0751537773355828e-05,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Bracketing",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
+            },
             "position": 51,
-            "position_jerr": null
+            "position_jerr": 0.0
         }
     ],
     "z": 0.0
