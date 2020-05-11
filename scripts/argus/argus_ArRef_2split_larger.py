@@ -60,8 +60,8 @@ def main():
     open('2')
     sleep(30)
     
-    #second split into Aux 1 stage-----------SPLIT 2
-    close('3')
+    #second split into Aux 2 stage-----------SPLIT 2
+    close('2')
     sleep(1)
     open('X')
     sleep(30)
@@ -72,7 +72,7 @@ def main():
     sleep(1)
     
     #expand split into V1
-    open('3')
+    open('2')
     sleep(30)
 
 
