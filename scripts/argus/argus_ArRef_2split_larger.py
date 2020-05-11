@@ -22,6 +22,7 @@ def main():
     sleep(30)
     close('4') # Pipette Ref Out
     close('5') # Pipette Ref In
+    sleep(1)
     
     
     pipette_fill_duration = 15
