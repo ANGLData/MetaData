@@ -17,7 +17,7 @@ def main():
     open('X') #Prepturbo
     open('1')  # Prep ion
     open('9')  # MS ion
-    open('2') # Aux 1
+    open('2') # Aux 2
     open('4')  # Pipette Ref Out
     sleep(30)
     close('4') # Pipette Ref Out
