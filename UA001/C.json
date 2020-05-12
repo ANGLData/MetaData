@@ -332,19 +332,19 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1018",
-            "j": 0.0027706708740206846,
-            "j_err": 3.178037155735034e-06,
+            "j": 0.002772339845502671,
+            "j_err": 1.7481506013139692e-06,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Weighted Mean",
                 "monitor_age": 1.1848,
                 "monitor_material": "",
                 "monitor_name": "",
                 "monitor_reference": "AC MIN",
                 "monte_carlo_ntrials": 10000,
                 "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
-                "use_monte_carlo": true,
+                "use_monte_carlo": false,
                 "use_weighted_fit": false
             },
             "position": 16,
@@ -664,9 +664,19 @@
         {
             "analyses": [
                 {
+                    "is_omitted": true,
+                    "record_id": "1031-02",
+                    "uuid": "62b5cd7b-fc96-41ae-97ed-f20cc4f7a7a7"
+                },
+                {
+                    "is_omitted": true,
+                    "record_id": "1031-03",
+                    "uuid": "2c5d544a-aff5-4be3-a25f-c0251b482552"
+                },
+                {
                     "is_omitted": false,
-                    "record_id": "1031-06",
-                    "uuid": "5fbb4b44-9e21-46af-91b3-2c82d6458147"
+                    "record_id": "1031-04",
+                    "uuid": "823587de-bb81-40e1-8919-0a87caa20ef8"
                 },
                 {
                     "is_omitted": false,
@@ -675,8 +685,8 @@
                 },
                 {
                     "is_omitted": false,
-                    "record_id": "1031-04",
-                    "uuid": "823587de-bb81-40e1-8919-0a87caa20ef8"
+                    "record_id": "1031-06",
+                    "uuid": "5fbb4b44-9e21-46af-91b3-2c82d6458147"
                 }
             ],
             "decay_constants": {
@@ -684,19 +694,19 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1031",
-            "j": 0.0027717947389951777,
-            "j_err": 2.054172181241952e-06,
+            "j": 0.002772339845502671,
+            "j_err": 1.7481506013139692e-06,
             "mean_j": 0.0027697405668139358,
             "mean_j_err": 5.834248177535308e-05,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Weighted Mean",
                 "monitor_age": 1.1848,
                 "monitor_material": "",
                 "monitor_name": "",
                 "monitor_reference": "AC MIN",
                 "monte_carlo_ntrials": 10000,
                 "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
-                "use_monte_carlo": true,
+                "use_monte_carlo": false,
                 "use_weighted_fit": false
             },
             "position": 46,
@@ -706,8 +716,8 @@
             "analyses": [
                 {
                     "is_omitted": false,
-                    "record_id": "1032-03",
-                    "uuid": "2c4ad28f-f3ea-4305-b3ff-68c7751d67ab"
+                    "record_id": "1032-01",
+                    "uuid": "fdcfaa8a-2880-4030-8573-53cb64d3c0f7"
                 },
                 {
                     "is_omitted": false,
@@ -716,8 +726,8 @@
                 },
                 {
                     "is_omitted": false,
-                    "record_id": "1032-01",
-                    "uuid": "fdcfaa8a-2880-4030-8573-53cb64d3c0f7"
+                    "record_id": "1032-03",
+                    "uuid": "2c4ad28f-f3ea-4305-b3ff-68c7751d67ab"
                 },
                 {
                     "is_omitted": false,
@@ -740,19 +750,19 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1032",
-            "j": 0.002775569766637131,
-            "j_err": 6.052943373245721e-07,
+            "j": 0.002772339845502671,
+            "j_err": 1.7481506013139692e-06,
             "mean_j": 0.002774964472299806,
             "mean_j_err": 2.028797722107049e-05,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Weighted Mean",
                 "monitor_age": 1.1848,
                 "monitor_material": "",
                 "monitor_name": "",
                 "monitor_reference": "AC MIN",
                 "monte_carlo_ntrials": 10000,
                 "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
-                "use_monte_carlo": true,
+                "use_monte_carlo": false,
                 "use_weighted_fit": false
             },
             "position": 47,
@@ -786,6 +796,11 @@
         {
             "analyses": [
                 {
+                    "is_omitted": true,
+                    "record_id": "1034-01A",
+                    "uuid": "83789b72-dac1-4108-94ef-5bec249cc973"
+                },
+                {
                     "is_omitted": false,
                     "record_id": "1034-02A",
                     "uuid": "e1a74769-4c1c-4634-b5c3-4712ca82def8"
@@ -806,19 +821,19 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1034",
-            "j": 0.0027717947389951777,
-            "j_err": 2.054172181241952e-06,
+            "j": 0.002772339845502671,
+            "j_err": 1.7481506013139692e-06,
             "mean_j": 0.0027738489111764197,
             "mean_j_err": 2.53292651725463e-05,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Weighted Mean",
                 "monitor_age": 1.1848,
                 "monitor_material": "",
                 "monitor_name": "",
                 "monitor_reference": "AC MIN",
                 "monte_carlo_ntrials": 10000,
                 "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
-                "use_monte_carlo": true,
+                "use_monte_carlo": false,
                 "use_weighted_fit": false
             },
             "position": 49,
@@ -852,6 +867,16 @@
         {
             "analyses": [
                 {
+                    "is_omitted": true,
+                    "record_id": "1036-06A",
+                    "uuid": "2ede6442-f48d-48d0-8ad9-16f0f44fbc36"
+                },
+                {
+                    "is_omitted": true,
+                    "record_id": "1036-07A",
+                    "uuid": "e6401fe6-ed43-4078-9ca6-e0f6e11be525"
+                },
+                {
                     "is_omitted": false,
                     "record_id": "1036-06B",
                     "uuid": "64968188-e363-4162-8cfa-b3b5df12669d"
@@ -877,19 +902,19 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1036",
-            "j": 0.0027712286545823776,
-            "j_err": 3.7358177174282112e-06,
+            "j": 0.002772339845502671,
+            "j_err": 1.7481506013139692e-06,
             "mean_j": 0.0027674928368649496,
             "mean_j_err": 2.466838324285879e-05,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Weighted Mean",
                 "monitor_age": 1.1848,
                 "monitor_material": "",
                 "monitor_name": "",
                 "monitor_reference": "AC MIN",
                 "monte_carlo_ntrials": 10000,
                 "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
-                "use_monte_carlo": true,
+                "use_monte_carlo": false,
                 "use_weighted_fit": false
             },
             "position": 51,
