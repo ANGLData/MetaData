@@ -80,7 +80,7 @@ def main():
     
         
 #===============================================================================
-# POST EQUILIBRATION SCRIPT argus_pump_v1.py
+# POST EQUILIBRATION SCRIPT argus_pump_v1_300_turbo.py
 #===============================================================================
 def main():
     open('X') # Prep turbo
