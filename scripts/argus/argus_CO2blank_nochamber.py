@@ -16,20 +16,14 @@ def main():
     #reset valving, pump prep/MS
     close('8') # MS inlet
     close('2') # Aux 2
-    open('X') #Prepturbo
-    close('1') # Prep ion
+    close('X') #Prepturbo
+    open('1') # Prep ion
     open('9')  # MS ion
     open('3') # Aux 1
-    close('4') # Pipette Ref Out
-    close('5') # Pipette Ref In
-    sleep(10)
-    
-    open('1') #Prep ion
     sleep(10)
     
     #close pumps
     close('1') #Prep ion
-    close('X') #Prepturbo
 
     #laser fire
     
@@ -40,13 +34,10 @@ def main():
 #===============================================================================
 
 #===============================================================================
-# POST EQUILIBRATION SCRIPT argus_pump_v1.py
+# POST EQUILIBRATION SCRIPT argus_pump_v1_ion only.py
 #===============================================================================
 def main():
-    open('X') # Prep turbo
     open('3') # Aux 1
-    open('2') # Aux 2
-    sleep (300) 
     open('1') # Prep Ion Pump
     
 #===============================================================================
