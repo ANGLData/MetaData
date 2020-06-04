@@ -7,12 +7,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1005",
-            "j": 0.0027736413546806844,
-            "j_err": 3.251468689790659e-06,
+            "j": 0.002776892823370475,
+            "j_err": 0.0,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Matching",
                 "monitor_age": 1.1848,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -32,12 +32,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1006",
-            "j": 0.0027736413546806844,
-            "j_err": 3.251468689790659e-06,
+            "j": 0.0027703898859908938,
+            "j_err": 0.0,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Matching",
                 "monitor_age": 1.1848,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -57,12 +57,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1007",
-            "j": 0.002774591666190801,
-            "j_err": 4.201780199907402e-06,
+            "j": 0.0027703898859908938,
+            "j_err": 0.0,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Matching",
                 "monitor_age": 1.1848,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -82,12 +82,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1008",
-            "j": 0.002771242566499599,
-            "j_err": 5.650256870875971e-06,
+            "j": 0.002776892823370475,
+            "j_err": 0.0,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Matching",
                 "monitor_age": 1.1848,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -107,12 +107,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1009",
-            "j": 0.002771242566499599,
-            "j_err": 5.650256870875971e-06,
+            "j": 0.002776892823370475,
+            "j_err": 0.0,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Matching",
                 "monitor_age": 1.1848,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -132,12 +132,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1010",
-            "j": 0.002774591666190801,
-            "j_err": 4.201780199907402e-06,
+            "j": 0.0027787934463907086,
+            "j_err": 0.0,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Matching",
                 "monitor_age": 1.1848,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -157,12 +157,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1011",
-            "j": 0.002771242566499599,
-            "j_err": 5.650256870875971e-06,
+            "j": 0.0022181536343259768,
+            "j_err": 0.0,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Matching",
                 "monitor_age": 1.1848,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -182,12 +182,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1012",
-            "j": 0.002771242566499599,
-            "j_err": 5.650256870875971e-06,
+            "j": 0.0022181536343259768,
+            "j_err": 0.0,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Matching",
                 "monitor_age": 1.1848,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -207,12 +207,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1013",
-            "j": 0.002772192878009716,
-            "j_err": 6.600568380992714e-06,
+            "j": 0.0022181536343259768,
+            "j_err": 0.0,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Matching",
                 "monitor_age": 1.1848,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -232,12 +232,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1014",
-            "j": 0.0027650450814637705,
-            "j_err": 5.472281649524739e-07,
+            "j": 0.002764497853298818,
+            "j_err": 0.0,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Matching",
                 "monitor_age": 1.1848,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -282,12 +282,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1016",
-            "j": 0.0027671094667740728,
-            "j_err": 1.517157145349609e-06,
+            "j": 0.0027686266239194224,
+            "j_err": 0.0,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Matching",
                 "monitor_age": 1.1848,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -307,12 +307,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1017",
-            "j": 0.0027680391510855806,
-            "j_err": 3.541297786762614e-06,
+            "j": 0.00277328209561367,
+            "j_err": 0.0,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Matching",
                 "monitor_age": 1.1848,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -332,12 +332,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1018",
-            "j": 0.0027680391510855806,
-            "j_err": 3.541297786762614e-06,
+            "j": 0.00277328209561367,
+            "j_err": 0.0,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Matching",
                 "monitor_age": 1.1848,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -357,12 +357,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1019",
-            "j": 0.002770103536395883,
-            "j_err": 1.4769124764605311e-06,
+            "j": 0.00277328209561367,
+            "j_err": 0.0,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Matching",
                 "monitor_age": 1.1848,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -377,72 +377,67 @@
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1020",
-            "j": 0,
-            "j_err": 0,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.002776892823370475,
+            "j_err": 0.0,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Matching",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": false
+            },
             "position": 35,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1021",
-            "j": 0,
-            "j_err": 0,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.0027703898859908938,
+            "j_err": 0.0,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Matching",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": false
+            },
             "position": 36,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
-            "analyses": [
-                {
-                    "is_omitted": false,
-                    "record_id": "1022-01",
-                    "uuid": "2acbcb41-e796-49c8-8321-f58f808c40fc"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "1022-02",
-                    "uuid": "1bc2733a-0635-44dc-8aa6-6bc7ad9b21d3"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "1022-03",
-                    "uuid": "5e633bc9-19eb-4937-9c1b-c16bd06a9d0a"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "1022-04",
-                    "uuid": "d4bcbb6c-4f25-4f58-a267-f1f4132b493b"
-                },
-                {
-                    "is_omitted": true,
-                    "record_id": "1022-05",
-                    "uuid": "09148772-f5dc-432d-9d4d-6002105c05b6"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "1022-06",
-                    "uuid": "4d26b5a0-f099-43c2-8b2e-edad78fbfba7"
-                }
-            ],
+            "analyses": [],
             "decay_constants": {
                 "lambda_k_total": 5.543e-10,
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1022",
-            "j": 0.002774591666190801,
-            "j_err": 4.201780199907402e-06,
+            "j": 0.0027703898859908938,
+            "j_err": 0.0,
             "mean_j": 0.0027703898859908938,
             "mean_j_err": 1.3600710589803372e-05,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Matching",
                 "monitor_age": 1.1848,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -456,44 +451,18 @@
             "position_jerr": 0.0
         },
         {
-            "analyses": [
-                {
-                    "is_omitted": false,
-                    "record_id": "1023-01",
-                    "uuid": "1537228a-216a-4177-9707-74b163ca76ef"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "1023-02",
-                    "uuid": "8d43e647-bcf6-4639-9529-30e5e3296463"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "1023-03",
-                    "uuid": "8fdcb60f-255a-45b3-beb5-d7b7b5c18111"
-                },
-                {
-                    "is_omitted": true,
-                    "record_id": "1023-04",
-                    "uuid": "74ae4b02-5de1-48bd-b0c2-09de230222a8"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "1023-05",
-                    "uuid": "a4b329f9-c267-4b07-9df2-e1c31f06e1a4"
-                }
-            ],
+            "analyses": [],
             "decay_constants": {
                 "lambda_k_total": 5.543e-10,
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1023",
-            "j": 0.002771242566499599,
-            "j_err": 5.650256870875971e-06,
+            "j": 0.002776892823370475,
+            "j_err": 0.0,
             "mean_j": 0.002776892823370475,
             "mean_j_err": 5.902545646333997e-06,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Matching",
                 "monitor_age": 1.1848,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -508,62 +477,67 @@
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1024",
-            "j": 0,
-            "j_err": 0,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.002776892823370475,
+            "j_err": 0.0,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Matching",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": false
+            },
             "position": 39,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1025",
-            "j": 0,
-            "j_err": 0,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.0027787934463907086,
+            "j_err": 0.0,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Matching",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": false
+            },
             "position": 40,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
-            "analyses": [
-                {
-                    "is_omitted": false,
-                    "record_id": "1026-01",
-                    "uuid": "49eb590d-6f7c-417f-af2d-b401d836b7ab"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "1026-02",
-                    "uuid": "35aaa086-2441-4fd1-b2f8-389180b149b1"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "1026-03",
-                    "uuid": "81d93dc3-ecd2-4c19-aae0-a970b3196118"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "1026-04",
-                    "uuid": "f51994eb-8d53-4c8f-86ea-4d1d420a905f"
-                }
-            ],
+            "analyses": [],
             "decay_constants": {
                 "lambda_k_total": 5.543e-10,
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1026",
-            "j": 0.002774591666190801,
-            "j_err": 4.201780199907402e-06,
+            "j": 0.0027787934463907086,
+            "j_err": 0.0,
             "mean_j": 0.0027787934463907086,
             "mean_j_err": 2.2852750564024497e-05,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Matching",
                 "monitor_age": 1.1848,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -578,80 +552,42 @@
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1027",
-            "j": 0,
-            "j_err": 0,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.0022181536343259768,
+            "j_err": 0.0,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Matching",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": false
+            },
             "position": 42,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
-            "analyses": [
-                {
-                    "is_omitted": false,
-                    "record_id": "1028-01",
-                    "uuid": "06a99bc8-f208-430b-9cd8-208b1f700f3a"
-                },
-                {
-                    "is_omitted": true,
-                    "record_id": "1028-02",
-                    "uuid": "20aeb2df-d651-464b-b063-5e4ef66cea20"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "1028-03",
-                    "uuid": "d345cdbf-6a21-4416-980e-c00f85aa6491"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "1028-04",
-                    "uuid": "bd5dbede-015a-486f-99a1-69e6a659a140"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "1028-05",
-                    "uuid": "9db3e87e-8b20-4ee3-abda-adadc0e321ff"
-                },
-                {
-                    "is_omitted": true,
-                    "record_id": "1028-06",
-                    "uuid": "2854c0e0-0a4b-4110-acde-408bf32064e1"
-                },
-                {
-                    "is_omitted": true,
-                    "record_id": "1028-07",
-                    "uuid": "1d1a8c38-0370-41ed-9fb6-bd1759e39f76"
-                },
-                {
-                    "is_omitted": true,
-                    "record_id": "1028-08",
-                    "uuid": "4c137883-c38f-4e77-ac16-e998f44a9a35"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "1028-09",
-                    "uuid": "d3209991-8952-492f-a717-5773050108d8"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "1028-10",
-                    "uuid": "51c8bf87-b57c-4047-8301-9b9a16c0041d"
-                }
-            ],
+            "analyses": [],
             "decay_constants": {
                 "lambda_k_total": 5.543e-10,
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1028",
-            "j": 0.002771242566499599,
-            "j_err": 5.650256870875971e-06,
+            "j": 0.0022181536343259768,
+            "j_err": 0.0,
             "mean_j": 0.002765592309628723,
             "mean_j_err": 3.3835252927401337e-06,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Matching",
                 "monitor_age": 1.1848,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -666,50 +602,42 @@
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1029",
-            "j": 0,
-            "j_err": 0,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.0022181536343259768,
+            "j_err": 0.0,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Matching",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": false
+            },
             "position": 44,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
-            "analyses": [
-                {
-                    "is_omitted": false,
-                    "record_id": "1030-01",
-                    "uuid": "621488e8-5444-4338-add6-316366117e02"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "1030-02",
-                    "uuid": "c40d8824-143a-4e66-b33c-c655fd5764c0"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "1030-03",
-                    "uuid": "122e95a6-f1a7-42bd-86e6-7b4286fa7e39"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "1030-04",
-                    "uuid": "01dcdc34-9b25-4977-a68f-6dd109747c4b"
-                }
-            ],
+            "analyses": [],
             "decay_constants": {
                 "lambda_k_total": 5.543e-10,
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1030",
-            "j": 0.0027650450814637705,
-            "j_err": 5.472281649524739e-07,
+            "j": 0.002764497853298818,
+            "j_err": 0.0,
             "mean_j": 0.002764497853298818,
             "mean_j_err": 1.9504707114734626e-06,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Matching",
                 "monitor_age": 1.1848,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -724,67 +652,67 @@
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1031",
-            "j": 0,
-            "j_err": 0,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.002764497853298818,
+            "j_err": 0.0,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Matching",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": false
+            },
             "position": 46,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1032",
-            "j": 0,
-            "j_err": 0,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.0027686266239194224,
+            "j_err": 0.0,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Matching",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": false
+            },
             "position": 47,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
-            "analyses": [
-                {
-                    "is_omitted": true,
-                    "record_id": "1033-01",
-                    "uuid": "6b3f6187-63ed-45ab-90b5-678097858267"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "1033-02",
-                    "uuid": "1e96ce1d-66d2-4960-a03b-23a24b3d99e8"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "1033-03",
-                    "uuid": "5fe1febc-dd52-430c-b688-c15f2d0a2a23"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "1033-04",
-                    "uuid": "1b58b166-ffbc-4a03-96af-bce25c2c1a72"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "1033-05",
-                    "uuid": "a1e97d3c-ed1b-4649-a366-54567ae8232e"
-                }
-            ],
+            "analyses": [],
             "decay_constants": {
                 "lambda_k_total": 5.543e-10,
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1033",
-            "j": 0.0027671094667740728,
-            "j_err": 1.517157145349609e-06,
+            "j": 0.0027686266239194224,
+            "j_err": 0.0,
             "mean_j": 0.0027686266239194224,
             "mean_j_err": 6.349156481229158e-07,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Matching",
                 "monitor_age": 1.1848,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -799,55 +727,42 @@
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1034",
-            "j": 0,
-            "j_err": 0,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.00277328209561367,
+            "j_err": 0.0,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Matching",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": false
+            },
             "position": 49,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
-            "analyses": [
-                {
-                    "is_omitted": false,
-                    "record_id": "1035-01",
-                    "uuid": "2c964a04-764d-4709-a16f-b6fc5f2dedf4"
-                },
-                {
-                    "is_omitted": true,
-                    "record_id": "1035-02",
-                    "uuid": "881b3246-8352-4ebf-a301-acafc9fe78bf"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "1035-03",
-                    "uuid": "cf361764-9574-492e-9610-38aad8645ba5"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "1035-04",
-                    "uuid": "b1f10831-71da-442d-b3c0-efe986ca337b"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "1035-05",
-                    "uuid": "cf426ea5-57cf-4ba4-8c1a-71f77b77f83e"
-                }
-            ],
+            "analyses": [],
             "decay_constants": {
                 "lambda_k_total": 5.543e-10,
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1035",
-            "j": 0.0027680391510855806,
-            "j_err": 3.541297786762614e-06,
+            "j": 0.00277328209561367,
+            "j_err": 0.0,
             "mean_j": 0.0027715804488723434,
             "mean_j_err": 1.7103945695174567e-06,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Matching",
                 "monitor_age": 1.1848,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -862,15 +777,28 @@
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.543e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1036",
-            "j": 0,
-            "j_err": 0,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.00277328209561367,
+            "j_err": 0.0,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Matching",
+                "monitor_age": 1.1848,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": false
+            },
             "position": 51,
-            "position_jerr": null
+            "position_jerr": 0.0
         }
     ],
     "z": 0.0
