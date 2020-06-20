@@ -80,14 +80,14 @@ def main():
     
         
 #===============================================================================
-# POST EQUILIBRATION SCRIPT argus_pump_v1_300_turbo.py
+# POST EQUILIBRATION SCRIPT argus_pump_v1turbo_ONLY_noIon.py
 #===============================================================================
 def main():
     open('X') # Prep turbo
     open('3') # Aux 1
     open('2') # Aux 2
     sleep (300) 
-    open('1') # Prep Ion Pump
+    
     
 #===============================================================================
 # POST MEASUREMENT SCRIPT argus_pump_ms.py
