@@ -68,6 +68,7 @@ def main():
 
     if BASELINE_AFTER:
         #necessary if peak hopping
+        define_detectors('Ar41','H2')
         define_detectors('Ar40','H1')
         define_detectors('Ar39','AX')
         define_detectors('Ar38','L1')
