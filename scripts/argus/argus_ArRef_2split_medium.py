@@ -44,19 +44,7 @@ def main():
     sleep(30)
     close('4')
     
-    #first split into Aux 1 stage-------------SPLIT 1
-    close('3')
-    sleep(1)
-    open('X')
-    sleep(60)
-    close('X')
-    sleep(1)
-    
-    #expand Aux 1 into V1
-    open('3')
-    sleep(30)
-    
-    #second split into Aux 2 stage-----------SPLIT 2
+    #first split into Aux 2 stage-----------SPLIT 2
     close('2')
     sleep(1)
     open('X')
@@ -68,6 +56,17 @@ def main():
     open('2')
     sleep(30)
 
+    #second split into Aux 1 stage-------------SPLIT 1
+    close('3')
+    sleep(1)
+    open('X')
+    sleep(60)
+    close('X')
+    sleep(1)
+    
+    #expand Aux 1 into V1
+    open('3')
+    sleep(30)
 
     
     
