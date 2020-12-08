@@ -9,7 +9,7 @@ def main():
         
     ###########################################    
     # UA ANGL Thermo Ar cocktail script (gettered air)
-    # should be ~0.6 fA on the CDD
+    # should be 3fA on the CDD
     
     info('Argus VI Ar Extraction Script')
     
