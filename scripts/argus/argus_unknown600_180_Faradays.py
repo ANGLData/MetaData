@@ -31,12 +31,18 @@ peakhop:
   hops_name: ''
   use_peak_hop: false
 '''
-ACTIVE_DETECTORS=('H2','H1','AX','L1','L2')
+ACTIVE_DETECTORS=('H2','H1','AX','L1','L2')    
     
 def main():
     info('unknown measurement script')
     
     activate_detectors(*ACTIVE_DETECTORS)
+    
+    set_deflection('H2', 80)
+    set_deflection('H1', 0)
+    set_deflection('AX', 80)
+    set_deflection('L1', 320)
+    set_deflection('L2', 115)
    
     
     if mx.peakcenter.before:
