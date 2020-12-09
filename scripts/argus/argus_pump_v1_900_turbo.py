@@ -3,5 +3,6 @@ def main():
     open('3') # Aux 1
     open('2') # Aux 2
     sleep (900) 
+    close('X') # Prep Turbo
     open('1') # Prep Ion Pump
     
