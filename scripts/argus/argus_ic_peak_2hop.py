@@ -19,12 +19,12 @@ EQ_DELAY= 3.0
 
 ACTIVE_DETECTORS = ('H2','H1', 'AX', 'L1', 'L2', 'CDD')
 
-FITS =('Ar40:linear',
+FITS =('Ar40:parabolic',
        'Ar39:linear',
        'Ar38:linear',
        'Ar37:linear',
        'Ar36:linear',
-       'Ar40H1:linear',
+       'Ar40H1:parabolic',
        'Ar39AX:linear',
        'Ar38L1:linear',
        'Ar37L2:linear',
