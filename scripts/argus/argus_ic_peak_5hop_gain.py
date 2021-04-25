@@ -19,11 +19,11 @@ EQ_DELAY= 3.0
 
 ACTIVE_DETECTORS = ('H2','H1', 'AX', 'L1', 'L2')
 
-FITS =('Ar40H2:linear',
-       'Ar40H1:linear',
-       'Ar40AX:linear',
-       'Ar40L1:linear',
-       'Ar40L2:linear',)
+FITS =('Ar40H2:parabolic',
+       'Ar40H1:parabolic',
+       'Ar40AX:parabolic',
+       'Ar40L1:parabolic',
+       'Ar40L2:parabolic',)
 
 
 BASELINE_FITS=(('average', 'SEM'),)
