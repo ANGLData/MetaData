@@ -7,12 +7,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1332",
-            "j": 0.0026236818511077434,
-            "j_err": 1.1178134762381085e-06,
+            "j": 0.0026219475912917607,
+            "j_err": 2.7479161031957214e-06,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Plane",
                 "monitor_age": 1.1851,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -32,12 +32,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1333",
-            "j": 0.0026236360922982354,
-            "j_err": 5.057378275174357e-07,
+            "j": 0.0026247291218694114,
+            "j_err": 3.187656894768647e-06,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Plane",
                 "monitor_age": 1.1851,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -73,12 +73,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1334",
-            "j": 0.002607904765470896,
-            "j_err": 5.871947235386874e-06,
+            "j": 0.0026212134867282634,
+            "j_err": 1.3691961830887205e-05,
             "mean_j": 0.0026020328182355095,
             "mean_j_err": 5.2273808565712905e-05,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Plane",
                 "monitor_age": 1.1851,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -94,17 +94,17 @@
         {
             "analyses": [
                 {
-                    "is_omitted": true,
+                    "is_omitted": false,
                     "record_id": "1335-01",
                     "uuid": "2c955919-567a-46d5-b229-8f6fd0f0560d"
                 },
                 {
-                    "is_omitted": false,
+                    "is_omitted": true,
                     "record_id": "1335-02",
                     "uuid": "01be4107-496e-449b-8ef1-267a782f1c86"
                 },
                 {
-                    "is_omitted": true,
+                    "is_omitted": false,
                     "record_id": "1335-03",
                     "uuid": "93b6c136-4e1e-46a0-9dc8-c9b744728c98"
                 },
@@ -114,7 +114,7 @@
                     "uuid": "0367bb36-e8b7-4f91-8787-a2b8e817c9df"
                 },
                 {
-                    "is_omitted": true,
+                    "is_omitted": false,
                     "record_id": "1335-05",
                     "uuid": "54855a37-0df4-4376-9d23-3c01bb17ddea"
                 }
@@ -124,12 +124,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1335",
-            "j": 0.002607904765470896,
-            "j_err": 5.871947235386874e-06,
-            "mean_j": 0.0026137767127062833,
-            "mean_j_err": 0.0,
+            "j": 0.002623722318229674,
+            "j_err": 1.0471087759216024e-05,
+            "mean_j": 0.002645604939266296,
+            "mean_j_err": 1.0984176079182486e-05,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Plane",
                 "monitor_age": 1.1851,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -165,12 +165,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1336",
-            "j": 0.0026260867335802136,
-            "j_err": 1.231002087393059e-05,
+            "j": 0.002626231149731085,
+            "j_err": 7.434095923016387e-06,
             "mean_j": 0.0026383967544541444,
             "mean_j_err": 2.51350424453501e-07,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Plane",
                 "monitor_age": 1.1851,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -206,12 +206,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1337",
-            "j": 0.002619877593235252,
-            "j_err": 1.7887641843713446e-06,
+            "j": 0.0026196947342230757,
+            "j_err": 1.2021604653415377e-05,
             "mean_j": 0.0026216663574196238,
             "mean_j_err": 1.3586397206886636e-07,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Plane",
                 "monitor_age": 1.1851,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -247,12 +247,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1338",
-            "j": 0.002619877593235252,
-            "j_err": 1.7887641843713446e-06,
+            "j": 0.0026222035657244864,
+            "j_err": 8.756777427015463e-06,
             "mean_j": 0.002618088829050881,
             "mean_j_err": 3.222280573932708e-05,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Plane",
                 "monitor_age": 1.1851,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -293,12 +293,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1339",
-            "j": 0.002622412772311602,
-            "j_err": 2.740257772908911e-06,
+            "j": 0.002624985096302137,
+            "j_err": 5.422508990005884e-06,
             "mean_j": 0.002619672514538693,
             "mean_j_err": 4.6672273600765444e-07,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Plane",
                 "monitor_age": 1.1851,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -314,7 +314,7 @@
         {
             "analyses": [
                 {
-                    "is_omitted": true,
+                    "is_omitted": false,
                     "record_id": "1340-01",
                     "uuid": "c3ef8c2e-3612-484e-94b8-580c96ddad23"
                 },
@@ -329,12 +329,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1340",
-            "j": 0.002622412772311602,
-            "j_err": 2.740257772908911e-06,
+            "j": 0.002627493927803548,
+            "j_err": 3.2536834914249698e-06,
             "mean_j": 0.0026251530300845107,
             "mean_j_err": 0.0,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Plane",
                 "monitor_age": 1.1851,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -355,7 +355,7 @@
                     "uuid": "ac2ac9e7-3471-49ed-8b29-f29168dab495"
                 },
                 {
-                    "is_omitted": true,
+                    "is_omitted": false,
                     "record_id": "1341-02",
                     "uuid": "8796d609-138a-4cf5-87af-e7568d258639"
                 },
@@ -375,12 +375,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1341",
-            "j": 0.0026159536098981423,
-            "j_err": 9.256312325765532e-07,
-            "mean_j": 0.0026150279786655655,
-            "mean_j_err": 7.416741957032062e-07,
+            "j": 0.002620957512295538,
+            "j_err": 6.835377628405923e-06,
+            "mean_j": 0.002616762521522455,
+            "mean_j_err": 2.0931773866556082e-06,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Plane",
                 "monitor_age": 1.1851,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -396,7 +396,7 @@
         {
             "analyses": [
                 {
-                    "is_omitted": true,
+                    "is_omitted": false,
                     "record_id": "1342-01",
                     "uuid": "cd72855f-b99d-4c66-a2cb-0f2537dc2621"
                 },
@@ -426,12 +426,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1342",
-            "j": 0.0026159536098981423,
-            "j_err": 9.256312325765532e-07,
-            "mean_j": 0.0026168792411307186,
-            "mean_j_err": 2.2845640130528666e-06,
+            "j": 0.002623466343796949,
+            "j_err": 3.8360714963223625e-06,
+            "mean_j": 0.002620771816926465,
+            "mean_j_err": 1.0330047202735665e-05,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Plane",
                 "monitor_age": 1.1851,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -467,12 +467,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1343",
-            "j": 0.0026170312393666434,
-            "j_err": 1.5199823592501084e-07,
+            "j": 0.0026259751752983596,
+            "j_err": 2.479731595573203e-06,
             "mean_j": 0.0026171832376025686,
             "mean_j_err": 8.612846700019848e-07,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Plane",
                 "monitor_age": 1.1851,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -508,12 +508,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1344",
-            "j": 0.0026236818511077434,
-            "j_err": 1.1178134762381085e-06,
+            "j": 0.00261943875979035,
+            "j_err": 5.45468798192097e-06,
             "mean_j": 0.0026247996645839817,
             "mean_j_err": 5.836675610638997e-07,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Plane",
                 "monitor_age": 1.1851,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -559,12 +559,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1345",
-            "j": 0.0026236818511077434,
-            "j_err": 1.1178134762381085e-06,
+            "j": 0.0026219475912917607,
+            "j_err": 2.7479161031957214e-06,
             "mean_j": 0.0026225640376315055,
             "mean_j_err": 1.0766026098580925e-06,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Plane",
                 "monitor_age": 1.1851,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -610,12 +610,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1346",
-            "j": 0.0026236360922982354,
-            "j_err": 5.057378275174357e-07,
+            "j": 0.0026247291218694114,
+            "j_err": 3.187656894768647e-06,
             "mean_j": 0.002623130354470718,
             "mean_j_err": 1.214370703584196e-05,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Plane",
                 "monitor_age": 1.1851,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -651,12 +651,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1347",
-            "j": 0.0026236360922982354,
-            "j_err": 5.057378275174357e-07,
+            "j": 0.002627237953370822,
+            "j_err": 6.120155633538489e-06,
             "mean_j": 0.002624141830125753,
             "mean_j_err": 1.0032172515390223e-05,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Plane",
                 "monitor_age": 1.1851,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -672,7 +672,7 @@
         {
             "analyses": [
                 {
-                    "is_omitted": true,
+                    "is_omitted": false,
                     "record_id": "1348-01",
                     "uuid": "c5cd04aa-3948-477f-8400-7fc7994d8587"
                 },
@@ -692,12 +692,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1348",
-            "j": 0.0026274881251619744,
-            "j_err": 3.8468257022449166e-07,
-            "mean_j": 0.0026278728077321987,
-            "mean_j_err": 2.7614911122316073e-07,
+            "j": 0.002620701537862813,
+            "j_err": 2.6920561471492018e-06,
+            "mean_j": 0.002625923508467293,
+            "mean_j_err": 2.4709633161374553e-06,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Plane",
                 "monitor_age": 1.1851,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -738,12 +738,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1349",
-            "j": 0.0026274881251619744,
-            "j_err": 3.8468257022449166e-07,
+            "j": 0.0026232103693642236,
+            "j_err": 4.586082196734821e-06,
             "mean_j": 0.0026271034425917497,
             "mean_j_err": 8.923589229801869e-06,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Plane",
                 "monitor_age": 1.1851,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -779,12 +779,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1350",
-            "j": 0.0026265178150838633,
-            "j_err": 5.856275078863597e-07,
+            "j": 0.0026257192008656343,
+            "j_err": 7.645429270545026e-06,
             "mean_j": 0.002625932187575977,
             "mean_j_err": 7.033889753752885e-06,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Plane",
                 "monitor_age": 1.1851,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -804,12 +804,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1370",
-            "j": 0.002607904765470896,
-            "j_err": 5.871947235386874e-06,
+            "j": 0.002623722318229674,
+            "j_err": 1.0471087759216024e-05,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Plane",
                 "monitor_age": 1.1851,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -829,12 +829,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1371",
-            "j": 0.002619877593235252,
-            "j_err": 1.7887641843713446e-06,
+            "j": 0.0026222035657244864,
+            "j_err": 8.756777427015463e-06,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Plane",
                 "monitor_age": 1.1851,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -854,12 +854,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1372",
-            "j": 0.002622412772311602,
-            "j_err": 2.740257772908911e-06,
+            "j": 0.002624985096302137,
+            "j_err": 5.422508990005884e-06,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Plane",
                 "monitor_age": 1.1851,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -879,12 +879,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1373",
-            "j": 0.0026159536098981423,
-            "j_err": 9.256312325765532e-07,
+            "j": 0.002623466343796949,
+            "j_err": 3.8360714963223625e-06,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Plane",
                 "monitor_age": 1.1851,
                 "monitor_material": "",
                 "monitor_name": "",
