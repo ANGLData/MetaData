@@ -82,8 +82,9 @@ def main():
     #peak center    
     info('starting peak center')
 
-    activate_detectors(*('H1','AX','CDD'), **{'peak_center':True})
+    activate_detectors('H1','L1','CDD', peak_center=True)
     peak_center(detector='H1',isotope='Ar40', config_name='H1_40_Only')
+
     
     info('finished peak center')
 
