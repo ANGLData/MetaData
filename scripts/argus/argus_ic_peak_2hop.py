@@ -79,13 +79,13 @@ def main():
         baselines(ncounts=BASELINE_COUNTS,mass=BASELINE_MASS, detector=BASELINE_DETECTOR,
                   settling_time=BASELINE_SETTLING_TIME)
         
-    #peak center    
+    #peak center 
     info('starting peak center')
-
+    
     activate_detectors('H1','L1','CDD', peak_center=True)
     peak_center(detector='H1',isotope='Ar40', config_name='H1_40_Only')
 
     
     info('finished peak center')
-
+    
     info('finished measure script')
