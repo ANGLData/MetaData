@@ -108,12 +108,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1811",
-            "j": 0.00532773103942672,
-            "j_err": 1.0116434373992622e-05,
-            "mean_j": 0.005337847473800713,
-            "mean_j_err": 1.0578962982056697e-06,
+            "j": 0.00532737871283795,
+            "j_err": 1.0115112985703903e-05,
+            "mean_j": 0.005337493825823654,
+            "mean_j_err": 1.0577578446027912e-06,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Nearest Neighbors",
                 "monitor_age": 28.201,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -174,12 +174,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1812",
-            "j": 0.00532773103942672,
-            "j_err": 1.0116434373992622e-05,
-            "mean_j": 0.0053176146050527276,
-            "mean_j_err": 1.2675664732091909e-06,
+            "j": 0.00532737871283795,
+            "j_err": 1.0115112985703903e-05,
+            "mean_j": 0.005317263599852246,
+            "mean_j_err": 1.2674012274907292e-06,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Nearest Neighbors",
                 "monitor_age": 28.201,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -205,7 +205,7 @@
                     "uuid": "1fc81cf8-87ad-41e3-bca3-d233d18c164a"
                 },
                 {
-                    "is_omitted": true,
+                    "is_omitted": false,
                     "record_id": "1813-03",
                     "uuid": "b8cd6fb1-9b70-4487-ba50-0fdf74924a12"
                 },
@@ -220,7 +220,7 @@
                     "uuid": "16005ac0-a392-4883-8e88-b7d0003cd9aa"
                 },
                 {
-                    "is_omitted": true,
+                    "is_omitted": false,
                     "record_id": "1813-06",
                     "uuid": "d42fbc6a-b80e-4b92-a1eb-9e78898422e7"
                 },
@@ -235,12 +235,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1813",
-            "j": 0.005314240480287228,
-            "j_err": 3.3741247655000133e-06,
-            "mean_j": 0.0053108663555217275,
-            "mean_j_err": 1.1375348056329588e-06,
+            "j": 0.005313155598400702,
+            "j_err": 4.108001451543376e-06,
+            "mean_j": 0.005309047596949159,
+            "mean_j_err": 1.1170359099603058e-06,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Nearest Neighbors",
                 "monitor_age": 28.201,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -271,7 +271,7 @@
                     "uuid": "905dffea-94de-4b2c-b44f-226e614ad415"
                 },
                 {
-                    "is_omitted": false,
+                    "is_omitted": true,
                     "record_id": "1814-04",
                     "uuid": "0c314d11-1748-4342-84db-78740acb15cd"
                 },
@@ -301,12 +301,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1814",
-            "j": 0.005331247827419139,
-            "j_err": 1.1241723198062142e-05,
-            "mean_j": 0.005342489550617202,
-            "mean_j_err": 5.986199440397148e-06,
+            "j": 0.005331096235517165,
+            "j_err": 1.2234410448251198e-05,
+            "mean_j": 0.005343330645965417,
+            "mean_j_err": 7.589743781805638e-06,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Nearest Neighbors",
                 "monitor_age": 28.201,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -322,7 +322,7 @@
         {
             "analyses": [
                 {
-                    "is_omitted": true,
+                    "is_omitted": false,
                     "record_id": "1815-01",
                     "uuid": "a0663e0c-c2c5-42c2-b149-b50c61813401"
                 },
@@ -367,12 +367,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1815",
-            "j": 0.005331247827419139,
-            "j_err": 1.1241723198062142e-05,
-            "mean_j": 0.0053200061042210775,
-            "mean_j_err": 9.004203285454352e-07,
+            "j": 0.005331096235517165,
+            "j_err": 1.2234410448251198e-05,
+            "mean_j": 0.0053188618250689145,
+            "mean_j_err": 1.0812734713188776e-06,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Nearest Neighbors",
                 "monitor_age": 28.201,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -438,12 +438,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1816",
-            "j": 0.005308546550576414,
-            "j_err": 5.103237940787091e-06,
-            "mean_j": 0.005313649788517201,
-            "mean_j_err": 5.708999118947556e-07,
+            "j": 0.005308196726271098,
+            "j_err": 5.102573731481912e-06,
+            "mean_j": 0.0053132993000025806,
+            "mean_j_err": 5.70825534975856e-07,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Nearest Neighbors",
                 "monitor_age": 28.201,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -504,12 +504,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1817",
-            "j": 0.005308546550576414,
-            "j_err": 5.103237940787091e-06,
-            "mean_j": 0.005303443312635627,
-            "mean_j_err": 6.586583845848387e-07,
+            "j": 0.005308196726271098,
+            "j_err": 5.102573731481912e-06,
+            "mean_j": 0.005303094152539617,
+            "mean_j_err": 6.585727384328411e-07,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Nearest Neighbors",
                 "monitor_age": 28.201,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -525,12 +525,12 @@
         {
             "analyses": [
                 {
-                    "is_omitted": true,
+                    "is_omitted": false,
                     "record_id": "1818-01",
                     "uuid": "a20df18c-c268-46ac-82b9-a26d49fe0d9f"
                 },
                 {
-                    "is_omitted": true,
+                    "is_omitted": false,
                     "record_id": "1818-02",
                     "uuid": "e4ba25bd-9ba3-4a83-b67d-6a5a74bd3af4"
                 },
@@ -555,12 +555,12 @@
                     "uuid": "7a24b743-6af3-4361-948b-f66638907c2b"
                 },
                 {
-                    "is_omitted": true,
+                    "is_omitted": false,
                     "record_id": "1818-07",
                     "uuid": "757d3c11-c032-4898-8483-d6f18e1db238"
                 },
                 {
-                    "is_omitted": true,
+                    "is_omitted": false,
                     "record_id": "1818-08",
                     "uuid": "6a682ca3-8af1-4fc0-b73a-01fe0eeff83c"
                 }
@@ -570,12 +570,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1818",
-            "j": 0.005313670321504763,
-            "j_err": 6.509924281544125e-06,
-            "mean_j": 0.005320180245786308,
-            "mean_j_err": 1.0703798528686835e-06,
+            "j": 0.005312265280411285,
+            "j_err": 2.579206391164525e-06,
+            "mean_j": 0.00531484448680245,
+            "mean_j_err": 3.3347837915618043e-06,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Nearest Neighbors",
                 "monitor_age": 28.201,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -601,7 +601,7 @@
                     "uuid": "80734d6c-13e3-4ca2-80f8-75792e87647c"
                 },
                 {
-                    "is_omitted": true,
+                    "is_omitted": false,
                     "record_id": "1819-03",
                     "uuid": "bfe53eb3-3bb9-4972-b68d-06e202686ae3"
                 },
@@ -611,7 +611,7 @@
                     "uuid": "6631fce6-0571-4a8b-9f8c-a371bd4c516f"
                 },
                 {
-                    "is_omitted": false,
+                    "is_omitted": true,
                     "record_id": "1819-05",
                     "uuid": "96bf2e49-c78a-41d5-b568-34357ef7d657"
                 },
@@ -621,7 +621,7 @@
                     "uuid": "44abb9c1-fd53-4a90-95a4-bee6e571a7b1"
                 },
                 {
-                    "is_omitted": false,
+                    "is_omitted": true,
                     "record_id": "1819-07",
                     "uuid": "ea310019-dc44-4bd2-8c19-d3b6f0a83415"
                 },
@@ -646,12 +646,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1819",
-            "j": 0.005313670321504763,
-            "j_err": 6.509924281544125e-06,
-            "mean_j": 0.00530716039722322,
-            "mean_j_err": 8.718603936152782e-07,
+            "j": 0.005312265280411285,
+            "j_err": 2.579206391164525e-06,
+            "mean_j": 0.005309686074020121,
+            "mean_j_err": 2.0112850410121435e-06,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Nearest Neighbors",
                 "monitor_age": 28.201,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -717,12 +717,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1820",
-            "j": 0.005307975392703076,
-            "j_err": 8.149954798569899e-07,
-            "mean_j": 0.005308790388182934,
-            "mean_j_err": 1.0692848636469478e-07,
+            "j": 0.005309063303197654,
+            "j_err": 6.227708224666555e-07,
+            "mean_j": 0.0053084405323751875,
+            "mean_j_err": 1.0691457078826881e-07,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Nearest Neighbors",
                 "monitor_age": 28.201,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -758,7 +758,7 @@
                     "uuid": "48104ac2-59ff-4fba-bca3-550596c02f8d"
                 },
                 {
-                    "is_omitted": true,
+                    "is_omitted": false,
                     "record_id": "1821-05",
                     "uuid": "c30f9424-1a47-4848-b41b-333396ae10ac"
                 }
@@ -768,12 +768,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1821",
-            "j": 0.005314540154508499,
-            "j_err": 5.640091277808561e-06,
-            "mean_j": 0.005308900063230691,
-            "mean_j_err": 4.510458435347157e-07,
+            "j": 0.005311390785493851,
+            "j_err": 3.4537013085984836e-06,
+            "mean_j": 0.005307937084185253,
+            "mean_j_err": 6.910841292880013e-07,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Nearest Neighbors",
                 "monitor_age": 28.201,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -804,7 +804,7 @@
                     "uuid": "8bbabe38-f59f-439a-aa36-d8fb5dd1e1a3"
                 },
                 {
-                    "is_omitted": false,
+                    "is_omitted": true,
                     "record_id": "1822-04",
                     "uuid": "82272f92-090a-4c01-9a1e-899ce1896e57"
                 },
@@ -834,12 +834,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1822",
-            "j": 0.005317105890511764,
-            "j_err": 9.131389211606417e-06,
-            "mean_j": 0.0053262372797233705,
-            "mean_j_err": 1.498827399059569e-06,
+            "j": 0.005317142333205797,
+            "j_err": 9.51758160558933e-06,
+            "mean_j": 0.0053266599148113864,
+            "mean_j_err": 1.8141857507071653e-06,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Nearest Neighbors",
                 "monitor_age": 28.201,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -885,12 +885,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1823",
-            "j": 0.005317105890511764,
-            "j_err": 9.131389211606417e-06,
-            "mean_j": 0.005307974501300158,
-            "mean_j_err": 9.453674605528362e-07,
+            "j": 0.005317142333205797,
+            "j_err": 9.51758160558933e-06,
+            "mean_j": 0.005307624751600208,
+            "mean_j_err": 9.452444201891316e-07,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Nearest Neighbors",
                 "monitor_age": 28.201,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -954,15 +954,28 @@
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.4633333e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "1883",
-            "j": 0.005308771989585537,
-            "j_err": 6.049369076919125e-05,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.005309063303197654,
+            "j_err": 6.227708224666555e-07,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Nearest Neighbors",
+                "monitor_age": 28.201,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "FC MIN",
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": false
+            },
             "position": 10,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
