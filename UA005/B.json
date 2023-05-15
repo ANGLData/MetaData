@@ -922,19 +922,19 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "1863",
-            "j": 0.005314240480287228,
-            "j_err": 3.3741247655000133e-06,
+            "j": 0.00533138289998406,
+            "j_err": 7.473637615318753e-05,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
-                "model_kind": "Bracketing",
+                "model_kind": "Weighted Mean",
                 "monitor_age": 28.201,
                 "monitor_material": "",
                 "monitor_name": "",
                 "monitor_reference": "FC MIN",
                 "monte_carlo_ntrials": 10000,
                 "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
-                "use_monte_carlo": true,
+                "use_monte_carlo": false,
                 "use_weighted_fit": false
             },
             "position": 3,
