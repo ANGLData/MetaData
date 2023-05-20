@@ -3,7 +3,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "",
+            "identifier": 2034,
             "j": 0.0137,
             "j_err": 5e-05,
             "mean_j": 0,
@@ -15,7 +15,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "",
+            "identifier": 2035,
             "j": 0.0137,
             "j_err": 5e-05,
             "mean_j": 0,
@@ -27,7 +27,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "",
+            "identifier": 2036,
             "j": 0.0137,
             "j_err": 5e-05,
             "mean_j": 0,
